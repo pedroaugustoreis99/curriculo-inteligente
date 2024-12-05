@@ -2,6 +2,8 @@
 
 O **Currículo Inteligente** é uma aplicação inovadora que utiliza inteligência artificial para otimizar processos seletivos. Com ela, candidatos podem enviar seus currículos diretamente para uma vaga específica, enquanto o sistema analisa e classifica os dados utilizando a API da OpenAI, retornando um percentual de compatibilidade para ajudar os recrutadores na triagem.
 
+**Confira o vídeo de apresentação do projeto no [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=SEU_VIDEO_ID)**: <a href="https://youtu.be/DzCib6WRFjU" target="_blank">Sistema de Recrutamento com Inteligência Artificial: Como Funciona o Currículo Inteligente? https://youtu.be/DzCib6WRFjU</a>
+
 ---
 
 ## Requisitos
