@@ -25,6 +25,7 @@ Certifique-se de que seu ambiente atenda aos seguintes requisitos mínimos:
 
 ```bash
 mysql -u usuario -p nome_do_banco < database.sql
+```
 
 ### 2. Configuração do Sistema
 
@@ -41,3 +42,4 @@ define('DB_PASS', 'senha'); // Senha do banco de dados
 // Chave da API da OpenAI
 define('KEY_API_CHATGPT', 'sua-chave-api'); // Insira sua chave da API da OpenAI
 ?>
+```
