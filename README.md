@@ -43,3 +43,17 @@ define('DB_PASS', 'senha'); // Senha do banco de dados
 define('KEY_API_CHATGPT', 'sua-chave-api'); // Insira sua chave da API da OpenAI
 ?>
 ```
+
+## Executando a Aplicação
+
+Após configurar o ambiente, siga as etapas abaixo para executar o sistema:
+
+1. Abra o terminal na raiz do projeto.
+2. Execute o servidor embutido do PHP com o seguinte comando:
+
+```bash
+php -S localhost:8000
+```
+
+3. Acesse a aplicação no navegador utilizando o endereço:
+**URL da aplicação:** `http://localhost:8000`
