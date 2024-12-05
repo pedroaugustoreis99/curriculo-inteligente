@@ -1,0 +1,24 @@
+{
+    "name": "pedroaugustoreis99/curriculo-inteligente",
+    "description": "O curriculo inteligente é uma aplicação PHP onde um candidato pode cadastrar seu curriculo para concorrer a uma vaga. No back-end os dados da vaga e do candidato serão enviados a uma API da openIA que vai classificar os candidatos",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Pedro Augusto"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "system\\": ["app/system"],
+            "controllers\\": ["app/controllers"],
+            "middlewares\\": ["app/middlewares"],
+            "models\\": ["app/models"],
+            "helpers\\": ["app/helpers"]
+        },
+        "files": [
+            "app/config.php",
+            "app/helpers/functions.php"
+        ]
+    }
+}
